@@ -1,3 +1,4 @@
+
 const root = document.querySelector(":root"),
       inputs = document.querySelectorAll("input[name='theme']");
 
